@@ -45,5 +45,3 @@ Além disso, o projeto também considera boas práticas como:
 ## Conclusão
 
 Este trabalho demonstra a **aplicação prática de conceitos de redes de computadores** na resolução de problemas reais, contribuindo para a melhoria do ambiente educacional e tecnológico da instituição.
-
-#tcc-reestrutura-o-de-rede #networking #wifi #wireless #network-optimization #wifi-optimization #network-design #network-analysis #network-planning #infraestrutura-de-rede #infraestrutura-ti #redes-de-computadores #access-point #roteadores #heatmap #network-engineering #tcc #estudo-de-caso #case-study #projeto-academico #tecnico-em-informatica #educacao #escola-publica #it-project #githubportfolio
