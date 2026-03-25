@@ -1,4 +1,10 @@
 # Projeto de Reestruturação de Rede Escolar
+## Artigo
+
+A versão completa do trabalho está disponível no arquivo abaixo:
+
+- 📄 [Projeto de Reestruturação de Rede (PDF)](https://github.com/gyordan5/tcc-reestrutura-o-de-rede/blob/83ac280f35c81320a74f50dec2ad2d7a6e1d78bb/Artigo%20-%20Reestrutura%C3%A7%C3%A3o%20de%20Rede.pdf)
+
 
 ## Descrição
 
@@ -45,9 +51,3 @@ Além disso, o projeto também considera boas práticas como:
 ## Conclusão
 
 Este trabalho demonstra a **aplicação prática de conceitos de redes de computadores** na resolução de problemas reais, contribuindo para a melhoria do ambiente educacional e tecnológico da instituição.
-
-## Artigo
-
-A versão completa do trabalho está disponível no arquivo abaixo:
-
-- 📄 [Projeto de Reestruturação de Rede (PDF)](https://github.com/gyordan5/tcc-reestrutura-o-de-rede/blob/83ac280f35c81320a74f50dec2ad2d7a6e1d78bb/Artigo%20-%20Reestrutura%C3%A7%C3%A3o%20de%20Rede.pdf)
