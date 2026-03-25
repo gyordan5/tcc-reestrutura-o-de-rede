@@ -20,7 +20,6 @@ O projeto tem como objetivo analisar a **infraestrutura de rede existente na ins
 
 - **Data de início do projeto:** *08/2025*  
 - **Data de finalização do projeto:** *12/2025*
-- 
 
 ## Metodologia
 
